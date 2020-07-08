@@ -10,3 +10,4 @@ git remote add origin https://github.com/gsratnakumar/testgit.git
 git push -u origin master
 
 git config successfully.
+test
